@@ -8,7 +8,6 @@ My name is Naphat Nithisopa .Currently, I'm a Robotic Engineer and Machine Learn
 - 🌱 I’m currently learning Computer Vision and Deep Learning.
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
-
 [![](https://img.shields.io/badge/iPhone-XS-111111?style=flat-square&logo=apple&logoColor=233333)](https://www.apple.com/)
 [![](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=black)](https://www.oracle.com/Python/)
 [![](https://img.shields.io/badge/-Python-green?style=flat-square&logo=python&logoColor=black)](https://www.python.org/)
