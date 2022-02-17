@@ -1,8 +1,8 @@
 ## Hi there, welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 ### Personal Details 💻
-
-- 🏫 A senior student in FIBO KMUTT.
+My name is Naphat Nithisopa .Currently, I'm a Robotic Engineer and Machine Learning Engineer
+- 🏫 i am a graduate student from FIBO KMUTT.
 - 😎 It's worth mentioning that I'm teaching Python in KMUTT as a tutor and have gained lots of compliment and supports. And I'm really enjoying teaching Python and helping noobs with fixing their bugs.
 - 🔭 I’m currently working on developing my own courseware for Python.
 - 🌱 I’m currently learning Computer Vision and Deep Learning.
