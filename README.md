@@ -18,7 +18,7 @@ My name is Naphat Nithisopa .Currently, I'm a Robotic Engineer and Machine Learn
 ### Github information 😆
 
 [![pection's GitHub stats](https://github-readme-stats.vercel.app/api?username=pection&count_private=true&theme=vue&show_icons=true)](https://github.com/pection)
-![Pection's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pectionhazra&count_private=true)
+[![pection's GitHub stats](https://github-readme-stats.vercel.app/api?username=pectionhazra&count_private=true)](https://github.com/pection)
 
 You can go to this repository [Readme Stats](https://github.com/anuraghazra/github-readme-stats) to see how I generate the charts above.
 
