@@ -16,8 +16,8 @@ My name is Naphat Nithisopa .Currently, I'm a Robotic Engineer and Machine Learn
 
 ### Github information 😆
 
-[![pection's GitHub stats](https://github-readme-stats.vercel.app/api?username=pection&count_private=true&theme=noctis_minimus&show_icons=true)](https://github.com/pection/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pection&hide=vim-script,html&theme=slateorange&exclude_repo=vimdotfile,.dotfile,dotfiles-ohmyzsh,,dotfiles,dotfiles-1,dotfile,vimrc-config)](https://github.com/pection/github-readme-stats)
+[![pection's GitHub stats](https://github-readme-stats.vercel.app/api?username=pection&count_private=true&theme=noctis_minimus&show_icons=true)](https://github.com/pection/pection/blob/main/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pection&hide=vim-script,html&theme=slateorange&exclude_repo=vimdotfile,.dotfile,dotfiles-ohmyzsh,,dotfiles,dotfiles-1,dotfile,vimrc-config)](https://github.com/pection/pection/blob/main/README.md)
 
 
 <!--
