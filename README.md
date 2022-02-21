@@ -9,7 +9,6 @@ My name is Naphat Nithisopa .Currently, I'm a Robotic Engineer and Machine Learn
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://dev.to/pection)
 [![](https://img.shields.io/badge/iPhone-XS-111111?style=flat-square&logo=apple&logoColor=233333)](https://www.apple.com/)
-[![](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=black)](https://www.oracle.com/Python/)
 [![](https://img.shields.io/badge/-Python-green?style=flat-square&logo=python&logoColor=black)](https://www.python.org/)
 [![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-black?style=flat-square&logo=IntelliJ%20IDEA&logoColor=549DF0)](https://www.jetbrains.com/idea/)
 [![](https://img.shields.io/badge/IDE-Pycharm-black?style=flat-square&logo=Pycharm&logoColor=07ED07)](https://www.jetbrains.com/pycharm/)
@@ -18,7 +17,7 @@ My name is Naphat Nithisopa .Currently, I'm a Robotic Engineer and Machine Learn
 ### Github information 😆
 
 [![pection's GitHub stats](https://github-readme-stats.vercel.app/api?username=pection&count_private=true&theme=noctis_minimus&show_icons=true)](https://github.com/pection/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pection&hide=vimscript,html&theme=slateorange)](https://github.com/pection/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pection&hide=vim-script,html&theme=slateorange)](https://github.com/pection/github-readme-stats)
 
 
 <!--
