@@ -6,6 +6,8 @@ My name is Naphat Nithisopa .Currently, I'm a Robotic Engineer and Machine Learn
 - 😎 It's worth mentioning that I'm teaching Python in KMUTT as a tutor and have gained lots of compliment and supports. And I'm really enjoying teaching Python and helping noobs with fixing their bugs.
 - 🔭 I’m currently working on developing my own courseware for Machine Learning Python.
 - 🌱 I’m currently learning Computer Vision and Deep Learning.
+
+
 ![](https://www.codewars.com/users/pection.nap/badges/large)
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://dev.to/pection)
