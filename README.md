@@ -12,7 +12,7 @@ My name is Naphat Nithisopa .Currently, I'm a Robotic Engineer and Machine Learn
 [![](https://img.shields.io/badge/-Python-green?style=flat-square&logo=python&logoColor=black)](https://www.python.org/)
 [![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-black?style=flat-square&logo=IntelliJ%20IDEA&logoColor=549DF0)](https://www.jetbrains.com/idea/)
 [![](https://img.shields.io/badge/IDE-Pycharm-black?style=flat-square&logo=Pycharm&logoColor=07ED07)](https://www.jetbrains.com/pycharm/)
-
+[![](https://www.codewars.com/users/pection.nap/badges/large)
 
 ### Github information 😆
 
