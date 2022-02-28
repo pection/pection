@@ -6,13 +6,13 @@ My name is Naphat Nithisopa .Currently, I'm a Robotic Engineer and Machine Learn
 - 😎 It's worth mentioning that I'm teaching Python in KMUTT as a tutor and have gained lots of compliment and supports. And I'm really enjoying teaching Python and helping noobs with fixing their bugs.
 - 🔭 I’m currently working on developing my own courseware for Machine Learning Python.
 - 🌱 I’m currently learning Computer Vision and Deep Learning.
+![](https://www.codewars.com/users/pection.nap/badges/large)
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://dev.to/pection)
 [![](https://img.shields.io/badge/iPhone-XS-111111?style=flat-square&logo=apple&logoColor=233333)](https://www.apple.com/)
 [![](https://img.shields.io/badge/-Python-green?style=flat-square&logo=python&logoColor=black)](https://www.python.org/)
 [![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-black?style=flat-square&logo=IntelliJ%20IDEA&logoColor=549DF0)](https://www.jetbrains.com/idea/)
 [![](https://img.shields.io/badge/IDE-Pycharm-black?style=flat-square&logo=Pycharm&logoColor=07ED07)](https://www.jetbrains.com/pycharm/)
-[![](https://www.codewars.com/users/pection.nap/badges/large)
 
 ### Github information 😆
 
